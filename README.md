@@ -1,4 +1,4 @@
-# Covid-19-Analysis-and-Risk-Prediction
+# Black-Friday-Analysis-and-Risk-Prediction
 ![image](https://github.com/RaedHabib/Black-Friday-Analysis-and-Prediction/assets/127057461/122718ed-5347-4705-9c2c-2aa49e8775a5)
 
 
