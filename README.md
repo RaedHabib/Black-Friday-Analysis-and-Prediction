@@ -1,5 +1,6 @@
 # Black-Friday-Analysis-and-Risk-Prediction
-![image](https://github.com/RaedHabib/Black-Friday-Analysis-and-Prediction/assets/127057461/122718ed-5347-4705-9c2c-2aa49e8775a5)
+![image](https://github.com/RaedHabib/Black-Friday-Analysis-and-Prediction/assets/127057461/6464c268-b4d6-4a65-9721-61e5b461d95d)
+
 
 
 
