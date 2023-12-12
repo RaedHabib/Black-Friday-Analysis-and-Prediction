@@ -5,7 +5,7 @@
 
 
 
-## :dart: About: ##
+## About: ##
 A Full Data Science project on Black Friday sales.  
 
 
