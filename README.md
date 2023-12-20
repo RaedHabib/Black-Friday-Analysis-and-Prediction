@@ -1,4 +1,4 @@
-# Black-Friday-EDA-and-Prediction
+# Black Friday EDA and Prediction
 ![image](https://github.com/RaedHabib/Black-Friday-Analysis-and-Prediction/assets/127057461/6464c268-b4d6-4a65-9721-61e5b461d95d)
 
 
